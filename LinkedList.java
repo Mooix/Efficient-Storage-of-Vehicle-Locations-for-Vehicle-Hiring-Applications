@@ -79,19 +79,5 @@ public class LinkedList <T> implements List<T>{
 		else
 			current = current.next;
 	}
-	
-	//added helpping methods in class LinkedList
-	 /* public void display() {
-	    if(head==null)
-	      System.out.println("empty list");
-	    Node<T>p=head;
-	    while(p!=null)
-	    {
-	      System.out.print(p.data+" ");
-	      p=p.next;
-	    }
-	  }*/
 
 }
-
-
