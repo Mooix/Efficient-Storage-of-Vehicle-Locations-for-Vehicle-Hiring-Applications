@@ -1,4 +1,4 @@
-# Efficient Storage of Vehicle-Locations for Vehicle-Hiring Applications
+# Efficient Storage of Vehicle Locations for Vehicle Hiring Applications
 This repository contains an implementation of a data structure for efficient storage of vehicle locations, which can be used in vehicle hiring applications. The implementation is written in Java.
 
 ## Background 
